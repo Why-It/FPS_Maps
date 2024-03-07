@@ -75,7 +75,18 @@
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Landscape/Mats/M_Landscape.uasset",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Landscape/Resources/Moss_LayerInfo.uasset",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Landscape/Resources/Rock_LayerInfo.uasset",
-				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Landscape/Resources/Sandstone_LayerInfo.uasset"
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Landscape/Resources/Sandstone_LayerInfo.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/Advanced_Lighting.umap",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/Minimal_Default.umap",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/StarterMap.umap",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Maps/Metroid_Tunnels.umap",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/FirstPerson/Input/IMC_Default.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Maps/_GENERATED/curti/Box_DB30E5CB.uasset"
 			]
 		}
 	]
