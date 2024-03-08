@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
@@ -76,17 +75,20 @@
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Landscape/Resources/Moss_LayerInfo.uasset",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Landscape/Resources/Rock_LayerInfo.uasset",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Landscape/Resources/Sandstone_LayerInfo.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Maps/Metroid_Tunnels.umap",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/FirstPerson/Input/IMC_Default.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Maps/_GENERATED/curti/Box_DB30E5CB.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Maps/Metroid_Tunnels_Again.umap",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StaticMeshes/SM_A_SmallCliffPLatform.uasset",
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/Advanced_Lighting.umap",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/Minimal_Default.umap",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
 				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/StarterMap.umap",
-				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
-				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Maps/Metroid_Tunnels.umap",
-				"P:/Unreal_Projects/Practice/FPS_Maps/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"P:/Unreal_Projects/Practice/FPS_Maps/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
-				"P:/Unreal_Projects/Practice/FPS_Maps/Content/FirstPerson/Input/IMC_Default.uasset",
-				"P:/Unreal_Projects/Practice/FPS_Maps/Content/Maps/_GENERATED/curti/Box_DB30E5CB.uasset"
+				"P:/Unreal_Projects/Practice/FPS_Maps/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
 			]
 		}
 	]
